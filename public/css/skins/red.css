@@ -1,0 +1,7 @@
+.button-theme {
+    background:#ff214f;
+}
+
+.button-theme:hover {
+    background: #dc141d;
+}
