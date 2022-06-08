@@ -122,7 +122,7 @@
                                 <div class="detail align-self-center">
                                     <h4>{{__('translation.address')}}</h4>
                                     <p>
-                                        <a href="tel:info@charaf-transport.com">info@charaf-transport.com</a>
+                                        <a href="mailto:info@charaf-transport.com">info@charaf-transport.com</a>
                                     </p>
                                 </div>
                             </div>

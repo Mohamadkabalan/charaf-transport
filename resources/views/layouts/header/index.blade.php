@@ -5,7 +5,7 @@
             <div class="col-lg-8 col-md-8 col-sm-7 col-7">
                 <div class="list-inline">
                     <a href="#"><i class="fa fa-map-marker"></i> 121 King Street, Melbourne</a>
-                    <a href="tel:info@themevessel.com" class="d-none-768"><i class="fa fa-envelope"></i>info@charaf-transport.com</a>
+                    <a href="mailto:info@charaf-transport.com" class="d-none-768"><i class="fa fa-envelope"></i>info@charaf-transport.com</a>
                 </div>
             </div>
 
